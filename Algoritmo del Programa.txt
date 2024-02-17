@@ -1,0 +1,20 @@
+Algoritmo del Procedimiento
+
+Inicialización de Variables:
+Se definen variables como precio_base, edad_18, edad_25, etc.
+Se utiliza un bucle while para permitir múltiples iteraciones hasta que el usuario decida salir.
+
+Entrada de Datos:
+Se solicitan datos como el nombre, la edad, la cantidad de propiedades, el salario, el estado civil y la cantidad de hijos.
+
+Cálculo de Recargos:
+Se aplican recargos según la edad del asegurado, la edad del cónyuge, la cantidad de propiedades, el salario y la cantidad de hijos.
+
+Cálculo del Precio Final:
+Se suma el recargo total al precio base para obtener el precio final del seguro.
+
+Resultado:
+Se muestran mensajes de alerta con el recargo total y el precio final.
+
+Cierre del Programa:
+Se permite al usuario cerrar el programa ingresando "salir".

@@ -1,0 +1,4 @@
+Descripción del Problema
+El programa en cuestión es un script en JavaScript que calcula el precio final de un seguro de salud basado 
+en diversos factores, como la edad del asegurado, el estado civil, la cantidad de propiedades, el salario y la 
+presencia de hijos. Utiliza una serie de variables y recargos predefinidos para realizar estos cálculos.
